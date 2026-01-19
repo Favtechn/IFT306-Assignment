@@ -18,7 +18,4 @@ DEPARTMENT: SOFTWARE ENGINEERING
 - Loading and error handling
 - Refresh data button
 
-## Part C - UX & Structure
-- Responsive layout
-- HTML, CSS, JS separated
-- Clear interaction and clean code
+
